@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Frederico!
 
-<!--
-**Fred-Rivero/Fred-Rivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UNISINOS  
+💻 Interested in Software Development, Cloud Computing and IoT  
+🚀 Currently learning C and AWS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 💡 Passionate about technology and problem solving  
+- 🌱 Always learning and building new skills  
+- 🌍 Fluent in English (international experience in Canada)  
+- ⚡ Focused on becoming a Cloud Engineer  
+
+---
+
+## 🛠️ Technologies & Skills
+
+- 💻 C (basic)
+- 🐧 Linux (basic)
+- 🤖 Arduino & IoT
+- ☁️ Cloud Computing (learning AWS)
+- 📱 Mobile App Development (Kodular)
+- 🔗 Hardware-Software Integration  
+
+---
+
+## 📫 Connect with me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/frederico-rivero/
+- 💻 GitHub: https://github.com/Fred-Rivero  
+
+---
+
+⭐ Always open to learning, collaborating and new opportunities!
