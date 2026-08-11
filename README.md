@@ -20,7 +20,7 @@
 - 💻 C (basic)
 - 🐧 Linux (basic)
 - 🤖 Arduino & IoT
-- ☁️ Cloud Computing (learning AWS)
+- ☁️ AWS Cloud Pratictioner
 - 📱 Mobile App Development (Kodular)
 - 🔗 Hardware-Software Integration  
 
